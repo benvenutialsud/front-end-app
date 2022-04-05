@@ -10,6 +10,6 @@
 7. Добавляем все файлы в локальное хранилище `git add .`
 8. Проверяем статус `git status`
 9. Выполняем фиксацию изменений `git commit -m ''`
-10. Подключаемся к удаленному репозиторию `git remote add origin https://github.com/benvenutialsud/ it-starts-in-github.git`
+10. Подключаемся к удаленному репозиторию `git remote add origin https://github.com/benvenutialsud/front- end-app.git`
 11. Загружаем основную ветку проекта на удаленный репозиторий `git puch -u origin master`
 
